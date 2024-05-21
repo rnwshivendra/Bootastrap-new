@@ -8,7 +8,7 @@ for every property in css there is class made in bootstrap
 
 ##Breakpoints :
 
-@media(max-width:400px){
+@media(max-width:600px){
 
 }
 

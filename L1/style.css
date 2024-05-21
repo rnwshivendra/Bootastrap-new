@@ -1,0 +1,31 @@
+/* large screen - lg */
+
+body{
+    background: #000;
+    color: white;
+}
+
+/* small screen - sm */
+@media(max-width:600px){
+    body{
+        background: #b70ba6;
+        color: rgb(80, 212, 23);
+    } 
+    h1{
+        font-size: 16px;
+    }
+}
+
+/* medium screen - md */
+@media(min-width:601px) and (max-width:1000px){
+    body{
+        background: #0c2bda;
+        color: rgb(23, 212, 212);
+    } 
+    h1{
+     font-size: 25px;
+
+    }
+}
+
+
